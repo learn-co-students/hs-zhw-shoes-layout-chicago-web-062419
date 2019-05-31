@@ -24,4 +24,26 @@
 
 /* Positioning Classes */
 
+h2{
+  padding-top: 10px;
+}
 
+#archivehead{
+  
+}
+.featurearchive{
+  display: grid;
+  grid-template-columns: 66% 32%;
+  grid-column-gap: 20px;
+  padding-bottom: 20px;
+}
+
+.deals{
+  display: grid;
+  grid-template-columns: 32% 32% 32%;
+  grid-column-gap: 20px;
+}
+
+#detailcol{
+  column-count: 3;
+}
