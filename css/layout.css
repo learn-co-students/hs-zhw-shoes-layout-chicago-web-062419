@@ -23,5 +23,33 @@
 }
 
 /* Positioning Classes */
+.ladybug {
+  float: left;
+  width: 32%;
+  margin: 10px 0 0 0;
+}
 
+.heels {
+float: left;
+width: 32%;
+margin: 10px 0 0 0;
+}
 
+.skate {
+float: left;
+width: 32%;
+margin: 10px 17px 0 17px;
+}
+
+.featured {
+  float: left;
+  width: 66%;
+  margin: 0 5px 10px 0;
+}
+
+.shadow {
+  float: left;
+  width: 32%;
+  margin: 0 0 10px 10px;
+  background: white;
+}
